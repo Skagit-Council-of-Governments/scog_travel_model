@@ -4,7 +4,7 @@ This repository contains files necessary to run the SCOG travel demand model, as
 
 ## User Guide
 
-Refer to the [User Guide](https://github.com/RSGInc/scog_model/wiki) for installation instructions.
+Refer to the [User Guide](https://github.com/Skagit-Council-of-Governments/scog_travel_model/wiki) for installation instructions.
 
 ## Folder Structure
 

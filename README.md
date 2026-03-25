@@ -2,16 +2,16 @@
 
 This repository contains files necessary to run the SCOG travel demand model, as well as scenario outputs and Python notebooks used to develop inputs.
 
-## User Guide
+## Wiki Documentation
 
-Refer to the [User Guide](https://github.com/Skagit-Council-of-Governments/scog_travel_model/wiki) for installation instructions.
+Refer to the [Model Wiki](https://github.com/Skagit-Council-of-Governments/scog_travel_model/wiki) for a User Guide and Technical Documentation. The User Guide contains requirements and installation instructions.
 
 ## Folder Structure
 
 ```
- |-- 0-Documentation      Model technical documentation
  |-- 1-Inputs_Preparation Python/Jupyter notebooks for getting Census data and processing survey
  |-- SCOG_Model_2022      Visum project files and outputs
+	|-- SCOG_Model_2022.vpdbx	Open this file in Visum 2024 to launch Scenario Manager
 ```
 
 ## Base and Forecast Years

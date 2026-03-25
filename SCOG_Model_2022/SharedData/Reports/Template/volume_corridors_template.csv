@@ -17,10 +17,4 @@ Volume Corridor,Route,From/To,Node 1,To/From,Node 2,Length (miles),Number of Lan
 16,P SR-9 Urban,Skagit River,6763,Kalloch Rd,289,,,,,,,4b,1b,0,0,0
 17,Q SR-9 Rural North,Kalloch Rd,289,SR-9 North External,190,,,,,,,5a,2a,-0.2,0,0
 18,R SR-20 Rural East,Helmick Rd,317,SR-20 East External,317,,,,,,,6a,3a,0,0,0
-
-
-
-
-
-
-
+19,S SR-534 Rural,I-5,954,SR-9,987,,,,,,,6c,3c,0,0,0
